@@ -3,7 +3,7 @@ templateKey: index-page
 title: Working for Best Company
 image: /img/penty.png
 heading: Customer-Obsession
-subheading: Support sustainable farming while enjoying a cup
+subheading: Going Above and Beyond for Our Customers
 mainpitch:
   title: Why Page
   description: >
