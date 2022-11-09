@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: Working for Best Company
+image: /img/penty.png
+heading: Customer-Obsession
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Why Page
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Best Company is always hiring because turnover is just part of the deal when
+    you foster growth and hire the best.
+description: It is important to create this functional blog page that uses
+  React, Gatsby, and Styled Components... but not Contentful because that will
+  just add to the confusion.
 intro:
   blurbs:
     - image: /img/coffee.png
