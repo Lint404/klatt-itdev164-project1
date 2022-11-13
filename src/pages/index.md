@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Working for Best Company
+title: " "
 image: /img/penty.png
 heading: Customer-Obsession
-subheading: Going Above and Beyond for Our Customers
+subheading: " "
 mainpitch:
   title: Why Page
   description: >
